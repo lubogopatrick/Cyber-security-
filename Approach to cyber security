@@ -1,4 +1,4 @@
-What Is Cybersecurity?
+upWhat Is Cybersecurity?
 Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users via ransomware; or interrupting normal business processes.
 
 Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative.
@@ -22,6 +22,54 @@ In today’s connected world, everyone benefits from advanced cybersecurity solu
 Everyone also benefits from the work of cyberthreat researchers, like the team of 250 threat researchers at Talos, who investigate new and emerging threats and cyber attack strategies. They reveal new vulnerabilities, educate the public on the importance of cybersecurity, and strengthen open source tools. Their work makes the Internet safer for everyone.
 ypes of ThreatsCybersecurity Job InfoRelated Topics
 Contact Cisco
+
+Cyber security refers to the practices, technologies, and processes designed to protect digital information, computer systems, and electronic data from unauthorized access, use, disclosure, disruption, modification, or destruction. This includes:
+
+1. Network security: Protecting computer networks from intrusion, exploitation, and disruption.
+
+2. Application security: Securing software applications and devices from vulnerabilities and threats.
+
+3. Data security: Protecting data from unauthorized access, theft, and corruption.
+
+4. Endpoint security: Protecting individual devices (endpoints) from cyber threats.
+
+5. Cloud security: Securing cloud computing environments and data.
+
+6. Cyber hygiene: Best practices for individual users to maintain online security.
+
+7. Threat intelligence: Identifying and mitigating potential cyber threats.
+
+8. Incident response: Responding to and managing cyber security incidents.
+
+9. Security awareness training: Educating users about cyber security best practices.
+
+10. Cyber security regulations: Compliance with laws and regulations related to cyber security.
+
+Some common cyber security threats include:
+
+1. Phishing
+2. Ransomware
+3. Malware
+4. SQL injection
+5. Cross-site scripting (XSS)
+6. Denial of Service (DoS)
+7. Man-in-the-middle (MitM) attacks
+8. Drive-by downloads
+9. Password attacks
+10. Insider threats
+
+Best practices for cyber security include:
+
+1. Using strong passwords and multi-factor authentication
+2. Keeping software and operating systems up-to-date
+3. Using anti-virus software and firewalls
+4. Regularly backing up data
+5. Using encryption
+6. Implementing access controls
+7. Conducting regular security audits and penetration testing
+8. Educating users about cyber security best practices
+9. Having an incident response plan in place
+10. Continuously monitoring for cyber threats.
 What is cybersecurity all about?
 A successful cybersecurity approach has multiple layers of protection spread across the computers, networks, programs, or data that one intends to keep safe. In an organization, the people, processes, and technology must all complement one another to create an effective defense from cyber attacks. A unified threat management system can automate integrations across select Cisco Security products and accelerate key security operations functions: detection, investigation, and remediation.
 
